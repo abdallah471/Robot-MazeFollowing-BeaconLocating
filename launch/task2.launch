@@ -1,0 +1,4 @@
+<launch>
+   <node pkg="team21" type="colour_search.py" name="task2"  output="screen">
+   </node>
+ </launch>

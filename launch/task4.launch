@@ -1,0 +1,6 @@
+<launch>
+   <node pkg="team21" type="task4_server.py" name="task4_action_server"  output="screen">
+   </node>
+   <node pkg="team21" type="task4_client.py" name="task4_action_client"  output="screen">
+   </node>
+ </launch>
